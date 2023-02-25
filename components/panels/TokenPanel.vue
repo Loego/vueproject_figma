@@ -30,7 +30,7 @@
       </div>
   
       <div id="token-details" class="col-12 p-5">
-        <div class="col-9 container">
+        <!-- <div class="col-9 container">
         <div class="row pt-5 pb-4">
           <p class="h1 title-color">Token Details</p>
           <div class="col-md-10">
@@ -39,33 +39,32 @@
           <img src="../../src/assets/smart.png" style="width: 100%;">
           <img src="../../src/assets/exchanges.png" style="width: 100%;">
         </div>
-        </div>
-        <!-- <div class="row bg-light box-round p-3">
-          <div class="col-3">
-            <div class="row container">
-              <p class="me-auto sample-color">Ticker</p>
-              <p class = "ms-auto sample-color">HMT</p>
+        </div> -->
+        <div class="row bg-light box-round p-3">
+          <div class="col-3 d-flex flex-column justify-content-around">
+            <div class="row container d-flex flex-column">
+              <span class="me-auto sample-color h5 pt-2 text-left" style="width: 100%;">Ticker</span>
+              <span class = "ms-auto sample-color text-right" style="width: 100%;">HMT</span>
             </div>
             <hr>
-            <div class="row container">
-              <p class = "ms-auto sample-color">Token Price</p>
-              <p class="me-auto sample-color">USD</p>
-              <p class="me-auto sample-color">7.6</p>
+            <div class="row container d-flex flex-column">
+              <span class="me-auto sample-color h5 pt-2 text-left" style="width: 100%;">Token Price</span>
+              <span class = "ms-auto sample-color text-left" style="width: 100%;">USD 7.6</span>
             </div>
           </div>
           <hr>
-          <div class="col-9">
-            <div class="row">
-              <p>Circulating Supply</p>
-              <p>120,000,000</p>
+          <div class="col-9 d-flex flex-column justify-content-between">
+            <div class="sample-color row d-flex flex-row justify-content-between align-items-center pr-5 pb-3 pt-2 border-bottom border-left pl-3">
+              <span>Circulating Supply</span>
+              <span class="h4">120,000,000</span>
             </div>
-            <div class="row">
-              <p>Total Supply</p>
-              <p>1,000,000,000</p>
+            <div class="sample-color row d-flex flex-row justify-content-between pr-5 pt-3 pb-3 border-bottom border-left pl-3 align-items-center">
+              <span>Total Supply</span>
+              <span class="h4">1,000,000,000</span>
             </div>
-            <div class="row">
-              <p>Market Cap</p>
-              <p>USD 1.000.000.000</p>
+            <div class="sample-color row d-flex flex-row justify-content-between pr-5 pt-3 pb-3 border-left pl-3 align-items-center">
+              <span>Market Cap</span>
+              <span class="h4">USD 1.000.000.000</span>
             </div>
           </div>
         </div>
@@ -73,21 +72,20 @@
           <div class="col-12 col-md-3 col-xl-3"></div>
           <div class="col-12 col-md-3 col-xl-3"></div>
         </div>
-        <div class="row d-flex flex-column flex-md-row flex-xl-row flex-lg-row justify-content-between">
-          <div class = "col-md-12 col-lg-5 col-xl-5 col-12 pl-3 pr-3 back-sample-color container d-flex flex-row">
-            <p class = "h6 text-light">Smart contract audit:</p>
-            <p class = "h2 text-light">Loremipsum</p>
+        <div class="row d-flex flex-column flex-md-row flex-xl-row flex-lg-row justify-content-between pt-3">
+          <div class = "col-md-12 col-lg-5 col-xl-5 col-12 pl-4 pr-4 back-sample-color container d-flex flex-row box-round align-items-center mt-2">
+            <span class = "h6 text-light text-left" style="width: 100%;">Smart contract audit:</span>
+            <span class = "h2 text-light">Loremipsum</span>
           </div>
-          <div class = "col-md-12 col-lg-5 col-xl-5 col-12 pl-3 pr-3 back-sample-color container d-flex flex-row">
-            <p class = "h6 text-light">Smart contract audit:</p>
-            <p class = "h2 text-light">Loremipsum</p>
+          <div class = "col-md-12 col-lg-5 col-xl-5 col-12 pl-4 pr-4 back-sample-color container d-flex flex-row box-round align-items-center mt-2">
+            <span class = "h6 text-light text-left" style="width: 100%;">Escrow Factory:</span>
+            <span class = "h2 text-light">Loremipsum</span>
           </div>
         </div>
         <div class="row">
-        </div> -->
+        </div> 
       </div>
-      </div>
-  
+
       <!--Human in the media-->
       <div id = "human-div" class="container mt-5">
         <div class="row justify-content-center align-items-center">      
