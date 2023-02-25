@@ -1,13 +1,13 @@
 <template>
-    <nav class="navbar navbar-expand-lg navbar-dark pt-5 pl-5 pr-5">
+    <nav class="navbar navbar-expand-md navbar-dark pt-5 pl-5 pr-5">
       <!--    Logo-->
       <router-link class="navbar-brand" :to="{ name: 'Home' }">
-        <img id="logo" src="../assets/icon.png" />
+        <img id="logo" src="../../src/assets/icon.png" />
       </router-link>
   
       <!--    Burger Button-->
       <button
-        class="navbar-toggler"
+        class="navbar-toggler back-sample-color"
         type="button"
         data-toggle="collapse"
         data-target="#navbarSupportedContent"
@@ -15,7 +15,7 @@
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon sample-color"></span>
       </button>
   
       <div class="collapse navbar-collapse" id="navbarSupportedContent">

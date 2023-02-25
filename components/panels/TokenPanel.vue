@@ -93,29 +93,29 @@
         <div class="row justify-content-center align-items-center">      
           <div class="box-round d-flex flex-column align-items-center p-5" id="token-details">
             <p class="h1 sample-color">HUMAN in the media</p>
-              <div class="row d-flex flex-wrap justify-content-around align-items-between pt-5">
-                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 align-items-center">
+              <div class="row d-flex flex-wrap justify-content-around align-items-between pt-3">
+                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 align-items-center mt-2">
                   <img src="../../src/assets/group1.png" style="width: 80%;height: 50px;">
                 </div>
-                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                   <img src="../../src/assets/group2.png" style="width: 80%;height: 50px;">
                 </div>
-                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                   <img src="../../src/assets/group3.png" style="width: 80%;height: 50px;">
                 </div>
-                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+                <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                   <img src="../../src/assets/group4.png" style="width: 80%;height: 50px;">
               </div>
-              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                 <img src="../../src/assets/group5.png" style="width: 80%;height: 50px;">
               </div>
-              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                 <img src="../../src/assets/group6.png" style="width: 80%;height: 50px;">
               </div>
-              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                 <img src="../../src/assets/group7.png" style="width: 80%;height: 50px;">
               </div>
-              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4">
+              <div class = "col-xl-3 col-lg-3 col-md-6 col-12 bg-white box-round p-3 d-flex justify-content-center pb-4 pt-4 mt-2">
                 <img src="../../src/assets/group8.png" style="width: 80%;height: 50px;">
               </div>
               </div>
